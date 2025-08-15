@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FOCUSOR</string>
+    
+    <!-- Navigation -->
+    <string name="nav_education">Education</string>
+    <string name="nav_finance">Finance</string>
+    <string name="nav_ai_assistant">AI Assistant</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History &amp; Analytics</string>
+    <string name="nav_backup">Backup &amp; Restore</string>
+    <string name="nav_help">Help &amp; About</string>
+    
+    <!-- Education -->
+    <string name="education_add_subject">Add Subject</string>
+    <string name="education_subject_name">Subject Name</string>
+    <string name="education_source">Source</string>
+    <string name="education_total_pages">Total Pages</string>
+    <string name="education_target_date">Target Date</string>
+    <string name="education_current_page">Current Page</string>
+    <string name="education_priority">Priority</string>
+    <string name="education_reading_speed">Reading Speed (pages/hour)</string>
+    <string name="education_daily_pages">Daily Pages</string>
+    <string name="education_progress">Progress</string>
+    <string name="education_remaining_pages">Remaining Pages</string>
+    <string name="education_days_until_target">Days Until Target</string>
+    <string name="education_completion_date">Estimated Completion</string>
+    <string name="education_hours_needed">Hours Needed</string>
+    <string name="education_on_track">On Track</string>
+    <string name="education_overdue">Overdue</string>
+    <string name="education_critical">Critical</string>
+    
+    <!-- Finance -->
+    <string name="finance_add_card">Add Card</string>
+    <string name="finance_card_name">Card Name</string>
+    <string name="finance_card_number">Card Number (last 4)</string>
+    <string name="finance_current_balance">Current Balance</string>
+    <string name="finance_credit_limit">Credit Limit</string>
+    <string name="finance_due_date">Due Date</string>
+    <string name="finance_interest_rate">Interest Rate (%)</string>
+    <string name="finance_minimum_payment">Minimum Payment</string>
+    <string name="finance_available_credit">Available Credit</string>
+    <string name="finance_credit_utilization">Credit Utilization</string>
+    <string name="finance_add_transaction">Add Transaction</string>
+    <string name="finance_transaction_amount">Amount</string>
+    <string name="finance_transaction_description">Description</string>
+    <string name="finance_transaction_category">Category</string>
+    <string name="finance_transaction_type">Type</string>
+    <string name="finance_income">Income</string>
+    <string name="finance_expense">Expense</string>
+    <string name="finance_transfer">Transfer</string>
+    <string name="finance_add_loan">Add Loan</string>
+    <string name="finance_loan_name">Loan Name</string>
+    <string name="finance_original_amount">Original Amount</string>
+    <string name="finance_remaining_amount">Remaining Amount</string>
+    <string name="finance_monthly_payment">Monthly Payment</string>
+    <string name="finance_term_months">Term (months)</string>
+    <string name="finance_start_date">Start Date</string>
+    <string name="finance_next_payment">Next Payment</string>
+    
+    <!-- AI Assistant -->
+    <string name="ai_new_conversation">New Conversation</string>
+    <string name="ai_provider">Provider</string>
+    <string name="ai_model">Model</string>
+    <string name="ai_api_key">API Key</string>
+    <string name="ai_message">Message</string>
+    <string name="ai_send">Send</string>
+    <string name="ai_conversation_title">Conversation Title</string>
+    <string name="ai_tokens">Tokens</string>
+    <string name="ai_cost">Cost</string>
+    <string name="ai_openai">OpenAI</string>
+    <string name="ai_gemini">Google Gemini</string>
+    <string name="ai_claude">Anthropic Claude</string>
+    <string name="ai_custom">Custom</string>
+    
+    <!-- Notes -->
+    <string name="notes_add_note">Add Note</string>
+    <string name="notes_title">Title</string>
+    <string name="notes_content">Content</string>
+    <string name="notes_category">Category</string>
+    <string name="notes_tags">Tags</string>
+    <string name="notes_priority">Priority</string>
+    <string name="notes_pinned">Pinned</string>
+    <string name="notes_reminder">Reminder</string>
+    <string name="notes_completed">Completed</string>
+    <string name="notes_search">Search notes...</string>
+    <string name="notes_filter">Filter</string>
+    <string name="notes_sort">Sort</string>
+    
+    <!-- Settings -->
+    <string name="settings_theme">Theme</string>
+    <string name="settings_light">Light</string>
+    <string name="settings_dark">Dark</string>
+    <string name="settings_amoled">AMOLED</string>
+    <string name="settings_system">System</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_calendar">Calendar Format</string>
+    <string name="settings_gregorian">Gregorian</string>
+    <string name="settings_jalali">Jalali</string>
+    <string name="settings_islamic">Islamic</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_app_lock">App Lock</string>
+    <string name="settings_biometric">Biometric</string>
+    <string name="settings_pin">PIN</string>
+    <string name="settings_pattern">Pattern</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_backup">Backup &amp; Restore</string>
+    <string name="settings_about">About</string>
+    
+    <!-- Common -->
+    <string name="common_save">Save</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_edit">Edit</string>
+    <string name="common_add">Add</string>
+    <string name="common_remove">Remove</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_error">Error</string>
+    <string name="common_success">Success</string>
+    <string name="common_loading">Loading...</string>
+    <string name="common_empty">No data available</string>
+    <string name="common_unknown_error">Unknown error occurred</string>
+    
+    <!-- Validation -->
+    <string name="validation_required">This field is required</string>
+    <string name="validation_invalid_format">Invalid format</string>
+    <string name="validation_min_length">Minimum length is %1$d characters</string>
+    <string name="validation_max_length">Maximum length is %1$d characters</string>
+    <string name="validation_invalid_number">Invalid number</string>
+    <string name="validation_positive_number">Must be a positive number</string>
+    <string name="validation_future_date">Must be a future date</string>
+    <string name="validation_past_date">Must be a past date</string>
+</resources>
