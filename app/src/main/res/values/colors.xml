@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Color Scheme - Light -->
+    <color name="md_theme_light_primary">#2C5F2D</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#B1F0B2</color>
+    <color name="md_theme_light_onPrimaryContainer">#002204</color>
+    <color name="md_theme_light_secondary">#52634F</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D4E8CF</color>
+    <color name="md_theme_light_onSecondaryContainer">#101F0F</color>
+    <color name="md_theme_light_tertiary">#38656A</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#BCEBF0</color>
+    <color name="md_theme_light_onTertiaryContainer">#002023</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FEFFFE</color>
+    <color name="md_theme_light_onBackground">#1A1C18</color>
+    <color name="md_theme_light_surface">#FEFFFE</color>
+    <color name="md_theme_light_onSurface">#1A1C18</color>
+    <color name="md_theme_light_surfaceVariant">#DEE5D8</color>
+    <color name="md_theme_light_onSurfaceVariant">#424940</color>
+    <color name="md_theme_light_outline">#727970</color>
+    <color name="md_theme_light_inverseOnSurface">#F1F1EA</color>
+    <color name="md_theme_light_inverseSurface">#2F312C</color>
+    <color name="md_theme_light_inversePrimary">#96D397</color>
+    
+    <!-- Material 3 Color Scheme - Dark -->
+    <color name="md_theme_dark_primary">#96D397</color>
+    <color name="md_theme_dark_onPrimary">#003A0B</color>
+    <color name="md_theme_dark_primaryContainer">#174A1A</color>
+    <color name="md_theme_dark_onPrimaryContainer">#B1F0B2</color>
+    <color name="md_theme_dark_secondary">#B9CCB4</color>
+    <color name="md_theme_dark_onSecondary">#253424</color>
+    <color name="md_theme_dark_secondaryContainer">#3B4B39</color>
+    <color name="md_theme_dark_onSecondaryContainer">#D4E8CF</color>
+    <color name="md_theme_dark_tertiary">#A0CFD4</color>
+    <color name="md_theme_dark_onTertiary">#003739</color>
+    <color name="md_theme_dark_tertiaryContainer">#1F4E52</color>
+    <color name="md_theme_dark_onTertiaryContainer">#BCEBF0</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#121310</color>
+    <color name="md_theme_dark_onBackground">#E2E3DC</color>
+    <color name="md_theme_dark_surface">#121310</color>
+    <color name="md_theme_dark_onSurface">#E2E3DC</color>
+    <color name="md_theme_dark_surfaceVariant">#424940</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C2C9BC</color>
+    <color name="md_theme_dark_outline">#8C9389</color>
+    <color name="md_theme_dark_inverseOnSurface">#121310</color>
+    <color name="md_theme_dark_inverseSurface">#E2E3DC</color>
+    <color name="md_theme_dark_inversePrimary">#2C5F2D</color>
+    
+    <!-- AMOLED Theme Colors -->
+    <color name="amoled_background">#000000</color>
+    <color name="amoled_surface">#000000</color>
+    <color name="amoled_surface_variant">#0A0A0A</color>
+    <color name="amoled_outline">#404040</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    <color name="info_blue">#2196F3</color>
+    
+    <!-- Persian Cultural Colors -->
+    <color name="persian_blue">#1F3A93</color>
+    <color name="persian_green">#00A693</color>
+    <color name="persian_gold">#FFD700</color>
+    <color name="persian_red">#CC3333</color>
+    
+    <!-- Chart Colors -->
+    <color name="chart_color_1">#FF6B6B</color>
+    <color name="chart_color_2">#4ECDC4</color>
+    <color name="chart_color_3">#45B7D1</color>
+    <color name="chart_color_4">#96CEB4</color>
+    <color name="chart_color_5">#FFEAA7</color>
+    <color name="chart_color_6">#DDA0DD</color>
+    <color name="chart_color_7">#98D8C8</color>
+    <color name="chart_color_8">#F7DC6F</color>
+    
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#80000000</color>
+    <color name="semi_transparent_white">#80FFFFFF</color>
+    
+    <!-- Education Module Colors -->
+    <color name="education_primary">#2E7D32</color>
+    <color name="education_secondary">#81C784</color>
+    
+    <!-- Finance Module Colors -->
+    <color name="finance_primary">#1565C0</color>
+    <color name="finance_secondary">#64B5F6</color>
+    
+    <!-- AI Module Colors -->
+    <color name="ai_primary">#6A1B9A</color>
+    <color name="ai_secondary">#BA68C8</color>
+    
+    <!-- Notes Module Colors -->
+    <color name="notes_primary">#F57C00</color>
+    <color name="notes_secondary">#FFB74D</color>
+</resources>

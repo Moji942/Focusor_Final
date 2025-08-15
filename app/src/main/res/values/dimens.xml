@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default spacing -->
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+    
+    <!-- Card corner radius -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    
+    <!-- FAB margin -->
+    <dimen name="fab_margin">16dp</dimen>
+    
+    <!-- Bottom navigation height -->
+    <dimen name="bottom_nav_height">56dp</dimen>
+    
+    <!-- Toolbar height -->
+    <dimen name="toolbar_height">56dp</dimen>
+</resources>
