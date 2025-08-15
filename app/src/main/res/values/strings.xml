@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">FOCUSOR</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_education">Education</string>
+    <string name="nav_finance">Finance</string>
+    <string name="nav_ai">AI Assistant</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History & Analytics</string>
+    <string name="nav_backup">Backup & Restore</string>
+    <string name="nav_help">Help & About</string>
+    
+    <!-- Education Module -->
+    <string name="education_add_subject">Add Subject</string>
+    <string name="education_subject_name">Subject Name</string>
+    <string name="education_source">Source</string>
+    <string name="education_total_pages">Total Pages</string>
+    <string name="education_target_date">Target Date</string>
+    <string name="education_daily_pages">Daily Pages Required</string>
+    <string name="education_reading_speed">Reading Speed (pages/hour)</string>
+    <string name="education_estimated_completion">Estimated Completion</string>
+    <string name="education_hours_needed">Hours Needed</string>
+    <string name="education_progress">Progress</string>
+    
+    <!-- Finance Module -->
+    <string name="finance_card_balance">Card Balance</string>
+    <string name="finance_add_card">Add Card</string>
+    <string name="finance_card_name">Card Name</string>
+    <string name="finance_current_balance">Current Balance</string>
+    <string name="finance_credit_limit">Credit Limit</string>
+    <string name="finance_monthly_payment">Monthly Payment</string>
+    <string name="finance_due_date">Due Date</string>
+    <string name="finance_loans">Loans</string>
+    <string name="finance_add_loan">Add Loan</string>
+    <string name="finance_loan_amount">Loan Amount</string>
+    <string name="finance_interest_rate">Interest Rate (%)</string>
+    <string name="finance_installments">Number of Installments</string>
+    <string name="finance_goals">Financial Goals</string>
+    <string name="finance_add_goal">Add Goal</string>
+    <string name="finance_goal_name">Goal Name</string>
+    <string name="finance_target_amount">Target Amount</string>
+    <string name="finance_current_amount">Current Amount</string>
+    <string name="finance_monthly_contribution">Monthly Contribution</string>
+    
+    <!-- AI Assistant -->
+    <string name="ai_provider">AI Provider</string>
+    <string name="ai_openai">OpenAI</string>
+    <string name="ai_gemini">Google Gemini</string>
+    <string name="ai_claude">Anthropic Claude</string>
+    <string name="ai_custom">Custom</string>
+    <string name="ai_api_key">API Key</string>
+    <string name="ai_model">Model</string>
+    <string name="ai_prompt">Enter your question...</string>
+    <string name="ai_send">Send</string>
+    <string name="ai_clear">Clear Chat</string>
+    <string name="ai_tokens_used">Tokens Used</string>
+    <string name="ai_estimated_cost">Estimated Cost</string>
+    
+    <!-- Notes Module -->
+    <string name="notes_add_note">Add Note</string>
+    <string name="notes_title">Note Title</string>
+    <string name="notes_content">Note Content</string>
+    <string name="notes_category">Category</string>
+    <string name="notes_priority">Priority</string>
+    <string name="notes_reminder">Set Reminder</string>
+    <string name="notes_tags">Tags</string>
+    <string name="notes_search">Search notes...</string>
+    
+    <!-- Settings -->
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_amoled">AMOLED</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_calendar">Calendar Type</string>
+    <string name="settings_calendar_gregorian">Gregorian</string>
+    <string name="settings_calendar_jalali">Jalali (Persian)</string>
+    <string name="settings_calendar_islamic">Islamic</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_app_lock">App Lock</string>
+    <string name="settings_biometric">Use Biometric</string>
+    <string name="settings_backup">Backup &amp; Restore</string>
+    <string name="settings_auto_backup">Auto Backup</string>
+    <string name="settings_backup_frequency">Backup Frequency</string>
+    <string name="settings_export_data">Export Data</string>
+    <string name="settings_import_data">Import Data</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="confirm">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="loading">Loading...</string>
+    <string name="retry">Retry</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="days_remaining">Days Remaining</string>
+    <string name="completed">Completed</string>
+    <string name="in_progress">In Progress</string>
+    <string name="overdue">Overdue</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_study_progress">Study Progress</string>
+    <string name="dashboard_financial_health">Financial Health</string>
+    <string name="dashboard_daily_goals">Daily Goals</string>
+    <string name="dashboard_alerts">Alerts</string>
+    <string name="dashboard_quick_actions">Quick Actions</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_api_key">Invalid API key. Please check your settings.</string>
+    <string name="error_invalid_input">Invalid input. Please check your data.</string>
+    <string name="error_database">Database error occurred.</string>
+    <string name="error_permission_denied">Permission denied.</string>
+    <string name="error_file_not_found">File not found.</string>
+    
+    <!-- Notifications -->
+    <string name="notification_study_reminder">Study Reminder</string>
+    <string name="notification_payment_due">Payment Due</string>
+    <string name="notification_goal_progress">Goal Progress Update</string>
+    <string name="notification_backup_complete">Backup Completed</string>
+</resources>

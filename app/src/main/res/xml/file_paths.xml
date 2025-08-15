@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- External files path for exports -->
+    <external-files-path name="external_files" path="." />
+    
+    <!-- Documents directory for Excel exports -->
+    <external-files-path name="documents" path="Documents/" />
+    
+    <!-- Cache directory for temporary files -->
+    <cache-path name="cache" path="." />
+    
+    <!-- Downloads directory for user exports -->
+    <external-path name="downloads" path="Download/" />
+</paths>

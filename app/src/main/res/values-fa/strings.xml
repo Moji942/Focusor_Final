@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">فوکوسور</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_education">آموزش</string>
+    <string name="nav_finance">مالی</string>
+    <string name="nav_ai">دستیار هوشمند</string>
+    <string name="nav_notes">یادداشت‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_history">تاریخچه و آنالیز</string>
+    <string name="nav_backup">پشتیبان‌گیری</string>
+    <string name="nav_help">راهنما و درباره</string>
+    
+    <!-- Education Module -->
+    <string name="education_add_subject">افزودن درس</string>
+    <string name="education_subject_name">نام درس</string>
+    <string name="education_source">منبع</string>
+    <string name="education_total_pages">کل صفحات</string>
+    <string name="education_target_date">تاریخ هدف</string>
+    <string name="education_daily_pages">صفحات روزانه مورد نیاز</string>
+    <string name="education_reading_speed">سرعت مطالعه (صفحه/ساعت)</string>
+    <string name="education_estimated_completion">تخمین تکمیل</string>
+    <string name="education_hours_needed">ساعات مورد نیاز</string>
+    <string name="education_progress">پیشرفت</string>
+    
+    <!-- Finance Module -->
+    <string name="finance_card_balance">موجودی کارت</string>
+    <string name="finance_add_card">افزودن کارت</string>
+    <string name="finance_card_name">نام کارت</string>
+    <string name="finance_current_balance">موجودی فعلی</string>
+    <string name="finance_credit_limit">حد اعتباری</string>
+    <string name="finance_monthly_payment">پرداخت ماهانه</string>
+    <string name="finance_due_date">تاریخ سررسید</string>
+    <string name="finance_loans">وام‌ها</string>
+    <string name="finance_add_loan">افزودن وام</string>
+    <string name="finance_loan_amount">مبلغ وام</string>
+    <string name="finance_interest_rate">نرخ بهره (%)</string>
+    <string name="finance_installments">تعداد اقساط</string>
+    <string name="finance_goals">اهداف مالی</string>
+    <string name="finance_add_goal">افزودن هدف</string>
+    <string name="finance_goal_name">نام هدف</string>
+    <string name="finance_target_amount">مبلغ هدف</string>
+    <string name="finance_current_amount">مبلغ فعلی</string>
+    <string name="finance_monthly_contribution">کمک ماهانه</string>
+    
+    <!-- AI Assistant -->
+    <string name="ai_provider">ارائه‌دهنده هوش مصنوعی</string>
+    <string name="ai_openai">OpenAI</string>
+    <string name="ai_gemini">Google Gemini</string>
+    <string name="ai_claude">Anthropic Claude</string>
+    <string name="ai_custom">سفارشی</string>
+    <string name="ai_api_key">کلید API</string>
+    <string name="ai_model">مدل</string>
+    <string name="ai_prompt">سوال خود را وارد کنید...</string>
+    <string name="ai_send">ارسال</string>
+    <string name="ai_clear">پاک کردن چت</string>
+    <string name="ai_tokens_used">توکن‌های استفاده شده</string>
+    <string name="ai_estimated_cost">تخمین هزینه</string>
+    
+    <!-- Notes Module -->
+    <string name="notes_add_note">افزودن یادداشت</string>
+    <string name="notes_title">عنوان یادداشت</string>
+    <string name="notes_content">محتوای یادداشت</string>
+    <string name="notes_category">دسته‌بندی</string>
+    <string name="notes_priority">اولویت</string>
+    <string name="notes_reminder">تنظیم یادآوری</string>
+    <string name="notes_tags">برچسب‌ها</string>
+    <string name="notes_search">جستجوی یادداشت‌ها...</string>
+    
+    <!-- Settings -->
+    <string name="settings_theme">تم</string>
+    <string name="settings_theme_light">روشن</string>
+    <string name="settings_theme_dark">تیره</string>
+    <string name="settings_theme_amoled">AMOLED</string>
+    <string name="settings_language">زبان</string>
+    <string name="settings_calendar">نوع تقویم</string>
+    <string name="settings_calendar_gregorian">میلادی</string>
+    <string name="settings_calendar_jalali">جلالی (شمسی)</string>
+    <string name="settings_calendar_islamic">هجری قمری</string>
+    <string name="settings_security">امنیت</string>
+    <string name="settings_app_lock">قفل برنامه</string>
+    <string name="settings_biometric">استفاده از بیومتریک</string>
+    <string name="settings_backup">پشتیبان‌گیری</string>
+    <string name="settings_auto_backup">پشتیبان‌گیری خودکار</string>
+    <string name="settings_backup_frequency">فرکانس پشتیبان‌گیری</string>
+    <string name="settings_export_data">صادرات داده‌ها</string>
+    <string name="settings_import_data">واردات داده‌ها</string>
+    
+    <!-- Common -->
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+    <string name="add">افزودن</string>
+    <string name="update">به‌روزرسانی</string>
+    <string name="confirm">تأیید</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="ok">تأیید</string>
+    <string name="error">خطا</string>
+    <string name="success">موفقیت</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="today">امروز</string>
+    <string name="yesterday">دیروز</string>
+    <string name="tomorrow">فردا</string>
+    <string name="days_remaining">روزهای باقی‌مانده</string>
+    <string name="completed">تکمیل شده</string>
+    <string name="in_progress">در حال انجام</string>
+    <string name="overdue">عقب‌افتاده</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_study_progress">پیشرفت مطالعه</string>
+    <string name="dashboard_financial_health">سلامت مالی</string>
+    <string name="dashboard_daily_goals">اهداف روزانه</string>
+    <string name="dashboard_alerts">هشدارها</string>
+    <string name="dashboard_quick_actions">اقدامات سریع</string>
+    
+    <!-- Errors -->
+    <string name="error_network">خطای شبکه. لطفاً اتصال خود را بررسی کنید.</string>
+    <string name="error_api_key">کلید API نامعتبر. لطفاً تنظیمات خود را بررسی کنید.</string>
+    <string name="error_invalid_input">ورودی نامعتبر. لطفاً داده‌های خود را بررسی کنید.</string>
+    <string name="error_database">خطای پایگاه داده رخ داده است.</string>
+    <string name="error_permission_denied">اجازه دسترسی رد شده است.</string>
+    <string name="error_file_not_found">فایل یافت نشد.</string>
+    
+    <!-- Notifications -->
+    <string name="notification_study_reminder">یادآوری مطالعه</string>
+    <string name="notification_payment_due">سررسید پرداخت</string>
+    <string name="notification_goal_progress">به‌روزرسانی پیشرفت هدف</string>
+    <string name="notification_backup_complete">پشتیبان‌گیری تکمیل شد</string>
+</resources>
